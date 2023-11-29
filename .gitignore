@@ -1,0 +1,9 @@
+# Ignore plots
+*.png
+*.jpg
+*.jpeg
+/plots
+/venv
+
+# Ignore CSV files
+*.csv
